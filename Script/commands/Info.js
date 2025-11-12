@@ -46,9 +46,9 @@ module.exports.run = async function ({ api, event, args, Users, Threads }) {
 │
 ├─ 👑 𝗡𝗮𝗺𝗲 : 𝐌𝐀𝐒𝐇𝐈𝐊-𝐌𝐀𝐇𝐈𝐑
 ├─ 📲 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-│ facebook.com/THE.FATHER.OFF.GALIBAZ.MAHIR.5
+│ facebook.com/THE.FATHER.OF.GALIBAZ.MAHIR420
 ├─ 💌 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-│ m.me/THE.FATHER.OFF.GALIBAZ.MAHIR.5
+│ m.me/THE.FATHER.OF.GALIBAZ.MAHIR420
 ├─ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
 │ 𝘄𝗽-দিলে বউ ঝাড়ু দিয়া পিটাবে-!!🥺💔
 │
