@@ -24,7 +24,7 @@ module.exports.run = async function({ api, event }) {
 ├───────────────
 │ 👤 𝐍𝐚𝐦𝐞 : 𝐌𝐀𝐒𝐇𝐈𝐊-𝐌𝐀𝐇𝐈𝐑
 │ 🚹 𝐆𝐞𝐧𝐝𝐞𝐫 : 𝐌𝐚𝐥𝐞
-│ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : 𝐄𝐯𝐚 𝐍𝐚𝐳𝐧𝐢𝐧
+│ ❤️ 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧 : 𝐒𝐢𝐧𝐠𝐥𝐞
 │ 🎂 𝐀𝐠𝐞 : 𝟏𝟖+
 │ 🕌 𝐑𝐞𝐥𝐢𝐠𝐢𝐨𝐧 : 𝐈𝐬𝐥𝐚𝐦
 │ 🎓 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧 : 𝐇𝐒𝐂 (𝟐𝟎𝟐𝟒)
@@ -35,7 +35,7 @@ module.exports.run = async function({ api, event }) {
 │ 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ├───────────────
 │ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:
-│ https://www.facebook.com/THE.FATHER.OFF.GALIBAZ.MAHIR.5
+│ https://www.facebook.com/THE.FATHER.OF.GALIBAZ.MAHIR420
 │ 💬 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽:
 │ 𝘄𝗽-দিলে বউ ঝাড়ু দিয়া পিটাবে-!!🥺💔
 └───────────────⭓
