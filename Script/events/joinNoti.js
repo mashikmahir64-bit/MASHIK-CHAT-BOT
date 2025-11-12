@@ -57,7 +57,7 @@ ${botPrefix}Info
 ${botPrefix}Admin
 
 ★ যেকোনো অভিযোগ অথবা হেল্প এর জন্য এডমিন 𝐌𝐀𝐒𝐇𝐈𝐊-𝐌𝐀𝐇𝐈𝐑 কে নক করতে পারেন ★
-➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://m.me/THE.FATHER.OFF.GALIBAZ.MAHIR.5
+➤𝐌𝐞𝐬𝐬𝐞𝐧𝐠𝐞𝐫: https://m.me/THE.FATHER.OF.GALIBAZ.MAHIR420
 ➤𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩: 𝘄𝗽-দিলে বউ ঝাড়ু দিয়া    পিটাবে-!!🥺💔
 
 ❖⋆═══════════════════════⋆❖
